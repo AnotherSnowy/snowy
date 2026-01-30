@@ -1,7 +1,7 @@
 [
   {
     role = "laptop";
-    style = "dark"; # light ? dark
+    style = "light"; # light ? dark
     username = "muxue";
     hostname = "snowy";
     extraHomeArgs = {};
