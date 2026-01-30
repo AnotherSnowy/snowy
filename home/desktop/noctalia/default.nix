@@ -18,13 +18,12 @@
         wifiDetailsViewMode = "grid";
       };
       general = {
-        avatarImage = "/home/${username}.face";
+        avatarImage = "/home/${username}/.face";
         boxRadiusRatio = 1;
         dimmerOpacity = 0;
         enableLockScreenCountdown = true;
         enableShadows = true;
         iRadiusRatio = 1;
-        language = "zh-CN";
         lockOnSuspend = true;
         radiusRatio = 0.5;
         scaleRatio = 1.15;
