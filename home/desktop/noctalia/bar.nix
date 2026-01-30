@@ -126,7 +126,7 @@
       ];
     };
     backgroundOpacity = 1;
-    barType = "framed";
+    barType = "framed"; # This option is not effective now. Time: 2026-01-30 19:00
     capsuleOpacity = 1;
     density = "comfortable";
     exclusive = true;
@@ -138,7 +138,7 @@
     marginVertical = 4;
     monitors = [];
     outerCorners = false;
-    position = "bottom";
+    position = "top";
     screenOverrides = [];
     showCapsule = true;
     showOutline = false;
