@@ -26,7 +26,7 @@
   programs.nvf.settings.vim.theme = {
     enable = true;
     name = "github";
-    style = "light";
+    style = "light_colorblind";
     transparent = true;
   };
 }
